@@ -28,6 +28,7 @@ export const CustomSelect = styled(Select).attrs({
   border-radius: var(--radii);
   font-family: var(--family);
   border: none;
+  margin-top: 2rem;
 
   & > * {
     box-shadow: var(--shadow);
