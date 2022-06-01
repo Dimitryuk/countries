@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const Button = styled.button`
   padding: 0 1rem;
+  margin-top: 1.5rem;
   background-color: var(--colors-ui-base);
   box-shadow: var(--shadow);
   line-height: 2.5;
